@@ -9,5 +9,6 @@ public class ExamserverApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExamserverApplication.class, args);
 	}
+System.out.println();
 
 }
